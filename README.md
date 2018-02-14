@@ -1,5 +1,7 @@
 # Icons in React
 
+![Screen Shoot](/src/myApp/img/IconsSS.png)
+
 This is just a basic exersice in how to tilize Icons in React.js
 
 in this Repo I put my notes in how to import icons from "React-Icons"
@@ -19,4 +21,3 @@ Official GitHub Repository of react-icons: https://github.com/gorangajic/react-i
 
 
 
-const icon1 = { border: "1px solid black" }

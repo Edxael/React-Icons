@@ -6,7 +6,6 @@ class IndexComp extends Component{
     render(){
         return(
             <div>
-                Hello from the IndexComponent...
                 <GatherComp/>
             </div>
         )
